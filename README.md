@@ -1,4 +1,4 @@
-# trabalho-algoritmos-1
+# Trabalho Algoritmos 1
 Trabalho final da disciplina de Algoritmos e Estruturas de Dados 1 - 2016/2
 
 trab.c reflete o código desenvolvido por mim para o trabalho final da disciplina de Algoritmos e Estruturas de Dados 1.
